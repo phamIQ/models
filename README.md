@@ -8,7 +8,7 @@ This repository contains the trained machine learning models and research notebo
 
 The models are based on EfficientNetV2 architecture, optimized for crop disease classification with the following specifications:
 
-- **Input Size**: 112x112 pixels (RGB)
+- **Input Size**: 225x225 pixels (RGB)
 - **Model Format**: PyTorch (.pth) and ONNX (.onnx)
 - **Number of Classes**: 22 total disease classes
 - **Accuracy**: 90%+ on test datasets
